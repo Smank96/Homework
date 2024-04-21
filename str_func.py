@@ -1,7 +1,5 @@
 def line_upper(line):
-    """
-    add new line
-    """
+    """add new line2"""
     return line.upper()
 
 
