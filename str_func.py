@@ -5,4 +5,5 @@ def line_upper(line):
 
 def line_title(line):
     """Делает заглавными первые буквы каждого слова в строке."""
+    # hotfix was here
     return line.title()
